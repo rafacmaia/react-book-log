@@ -1,9 +1,9 @@
 # Book Log 📚
 ![Status](https://img.shields.io/badge/status-in--development-yellow)
 
-This is a simple book log project to learn [Next.js](https://nextjs.org), practice [React](https://react.dev/), and test [Vercel](https://vercel.com) deployment.
+This is a simple book log project to practice [React](https://react.dev/) (+ Vite) and test [Vercel](https://vercel.com) deployment. More features and functionality to come.
 
-<img width="1703" height="1055" alt="book-log-screenshot" src="https://github.com/user-attachments/assets/76456d24-a16a-4932-b602-d127b84fd768" />
+<img width="1728" height="1080" alt="Screenshot of live site" src="https://github.com/user-attachments/assets/bd0adb8d-17a0-4538-bc8e-3cd320444a0f" />
 
 ## To Run Project 🚀
 
@@ -20,11 +20,13 @@ npm install
 npm run dev
 ```
 
-Once the server is running, open the localhost URL (usually [http://localhost:3000](http://localhost:3000)) with your browser to see the result.
+Once the server is running, open the localhost URL (usually [http://localhost:5173](http://localhost:5173)) with your browser to see the result.
 
 ## Image credits 🎨
 
-Book covers sourced from public listings on publisher sites and book databases.
+Book covers were sourced from public listings on publisher sites and book databases.
+
+Most SVG icons obtained from [SVG Repo](https://www.svgrepo.com/) under CC0 License (no attribution needed)
 
 The following are available under [CC Attribution License](https://creativecommons.org/licenses/by/4.0/) :
 
